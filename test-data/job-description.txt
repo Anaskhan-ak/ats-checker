@@ -1,0 +1,68 @@
+# Senior Full-Stack Software Engineer
+
+## About The Role
+
+We are looking for an experienced Senior Full-Stack Software Engineer to join our growing team. You will work on building scalable web applications that impact millions of users worldwide.
+
+## Responsibilities
+
+- Design and develop robust, scalable backend services using Node.js and Python
+- Build responsive, modern user interfaces with React.js and TypeScript
+- Implement automated testing and CI/CD pipelines
+- Collaborate with product managers and designers to define requirements
+- Mentor junior developers and conduct code reviews
+- Optimize database performance and implement caching strategies
+- Deploy and maintain applications on AWS infrastructure
+- Participate in on-call rotation for production support
+- Contribute to architecture decisions and best practices
+
+## Required Skills & Experience
+
+- 5+ years of software development experience
+- Strong proficiency in JavaScript/TypeScript
+- Expert-level React.js development
+- Backend development with Node.js or Python
+- SQL and NoSQL databases (PostgreSQL, MongoDB)
+- RESTful API design and implementation
+- Git version control and branching strategies
+- Understanding of microservices architecture
+- Experience with Docker and containerization
+- AWS or GCP cloud platform experience
+- Agile/Scrum development methodology
+
+## Preferred Skills
+
+- GraphQL experience
+- Next.js or Nuxt.js framework
+- Redis or ElastiCache experience
+- Kubernetes orchestration
+- Machine Learning or data science background
+- Open source contributions
+- DevOps/Infrastructure as Code (Terraform, CloudFormation)
+- Experience with project management tools (Jira, Asana)
+- Technical writing and documentation skills
+
+## Key Technologies We Use
+
+- Frontend: React.js, TypeScript, Tailwind CSS, Redux
+- Backend: Node.js, Express.js, Python, Django
+- Databases: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, Kubernetes, AWS (EC2, Lambda, RDS, S3)
+- Tools: Git, GitHub, Jenkins, Datadog, New Relic
+
+## Education
+
+- Bachelor's degree in Computer Science or related field, OR
+- Equivalent professional experience
+
+## Compensation & Benefits
+
+- Competitive salary: $150,000 - $200,000
+- Stock options
+- 100% remote or hybrid (3 days in NYC office)
+- Comprehensive health insurance
+- 401(k) matching
+- Professional development budget
+- Unlimited PTO
+- Free lunch and beverages
+- MacBook Pro or Linux laptop

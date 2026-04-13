@@ -1,0 +1,48 @@
+# JOHN SMITH
+Boston, MA | john.smith@email.com | (617) 555-0789
+
+## OBJECTIVE
+
+Seeking a position utilizing my 6 years of IT support and systems administration experience
+
+## EXPERIENCE
+
+### IT Support Specialist | ABC Corporation (2018 - Present)
+- Provide tier-1 and tier-2 technical support to 500+ users
+- Manage Windows and Mac systems
+- Handle password resets and account provisioning
+- Troubleshoot hardware and network issues
+- Document IT issues and resolutions in ticketing system
+
+### Help Desk Technician | XYZ Services (2016 - 2018)
+- Answered support tickets and phone calls
+- Resolved email and software issues
+- Performed system maintenance and backups
+- Assisted with printer and network printer setup
+
+### IT Intern | Local Company (2015 - 2016)
+- Helped with computer builds and configurations
+- Provided basic technical training to staff
+- Maintained equipment inventory
+
+## SKILLS
+
+- Windows Server administration
+- Network troubleshooting
+- Hardware repair and diagnostics
+- Microsoft Office Suite
+- Basic PowerShell scripting
+- Cisco networking equipment (basic)
+- Audio/video conferencing systems
+
+## EDUCATION
+
+- CompTIA A+ Certification (2016)
+- CompTIA Network+ Certification (2017)
+- High School Diploma (2014)
+
+## INTERESTS
+
+- Mountain biking
+- Photography
+- Video games

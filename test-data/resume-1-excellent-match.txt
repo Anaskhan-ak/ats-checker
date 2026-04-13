@@ -1,0 +1,61 @@
+# ALEX CHEN
+San Francisco, CA | alex.chen@email.com | (415) 555-0123 | LinkedIn.com/in/alexchen | GitHub.com/alexchen
+
+## PROFESSIONAL SUMMARY
+
+Senior Full-Stack Engineer with 7 years of experience building scalable web applications using React and Node.js. Expert in TypeScript, AWS, and microservices architecture. Proven track record of leading technical initiatives and mentoring teams.
+
+## SKILLS
+
+**Languages:** JavaScript, TypeScript, Python, SQL, GraphQL, HTML/CSS
+
+**Frontend:** React.js, Redux, Next.js, Tailwind CSS, Material-UI, Jest, React Testing Library
+
+**Backend:** Node.js, Express.js, Django, REST APIs, GraphQL, Docker, Kubernetes
+
+**Databases:** PostgreSQL, MongoDB, Redis, DynamoDB, Elasticsearch
+
+**Cloud & DevOps:** AWS (EC2, Lambda, RDS, S3, CloudFormation), CI/CD pipelines, Jenkins, GitHub Actions, Docker
+
+**Tools:** Git, GitHub, Jira, VS Code, Figma, Datadog, New Relic
+
+**Methodologies:** Agile/Scrum, Test-Driven Development, Microservices
+
+## PROFESSIONAL EXPERIENCE
+
+### Senior Software Engineer | TechCorp (2021 - Present)
+- Led architecture redesign of monolithic application to microservices, improving performance by 40%
+- Implemented real-time features using WebSockets and Redis, serving 100k+ concurrent users
+- Designed and built GraphQL API layer, reducing client payload sizes by 60%
+- Mentored 3 junior developers on React best practices and TypeScript
+- Established CI/CD pipelines with 95% test coverage using Jest and GitHub Actions
+- Deployed applications on AWS EKS (Kubernetes), ensuring 99.99% uptime
+
+### Full-Stack Engineer | StartupXYZ (2019 - 2021)
+- Built end-to-end features using React and Node.js for SaaS platform with 50k+ users
+- Optimized database queries and implemented Redis caching, improving API latency by 50%
+- Migrated frontend codebase to TypeScript, reducing production bugs by 30%
+- Implemented automated testing framework increasing test coverage from 20% to 85%
+- Containerized applications with Docker and deployed to AWS
+
+### Junior Developer | WebAgency (2017 - 2019)
+- Developed responsive web applications using React and Vanilla JavaScript
+- Built RESTful APIs with Node.js and Express
+- Participated in daily standups and sprint planning
+
+## EDUCATION
+
+**Bachelor of Science in Computer Science**
+State University | Graduated May 2017
+
+## CERTIFICATIONS & ACHIEVEMENTS
+
+- AWS Certified Solutions Architect - Associate (2020)
+- Open Source Contributor - React Query library (50+ merged PRs)
+- Speaker at ReactConf 2022: "Scaling React Applications"
+
+## PROJECTS
+
+**E-commerce Platform** - Full-stack React, Node.js, PostgreSQL architecture serving 1M+ products with search and recommendation engine
+
+**Real-Time Analytics Dashboard** - WebSocket-based dashboard with React and Redux, visualizing 100M+ events/day using Elasticsearch

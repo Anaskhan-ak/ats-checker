@@ -1,0 +1,47 @@
+# MARIA RODRIGUEZ
+New York, NY | maria.rodriguez@email.com | (212) 555-0456 | LinkedIn.com/in/mariarod
+
+## SUMMARY
+
+Software Engineer with 4 years of experience in frontend development. Specializing in React and modern JavaScript. Looking to expand into full-stack development.
+
+## SKILLS
+
+**Languages:** JavaScript, HTML, CSS, Python (basic)
+
+**Frontend:** React.js, Vue.js, jQuery, Bootstrap, CSS-in-JS, Webpack
+
+**Other:** Git, Figma, Responsive Design, Web Accessibility (WCAG)
+
+**Familiar With:** REST APIs, SQL basics, Node.js (beginner)
+
+## WORK EXPERIENCE
+
+### Senior Frontend Developer | DesignStudio Inc. (2021 - Present)
+- Led frontend development for client projects using React and Vue.js
+- Implemented responsive designs using CSS Grid and Flexbox
+- Optimized bundle sizes using webpack and code splitting
+- Conducted code reviews and ensured best practices
+- Worked with designers to translate mockups into interactive components
+
+### Frontend Developer | WebDesign Co. (2019 - 2021)
+- Built component libraries and reusable UI patterns
+- Migrated legacy jQuery applications to modern React
+- Improved website performance scores from 40 to 85
+- Created interactive data visualizations using D3.js
+
+### Junior Developer | Digital Agency (2018 - 2019)
+- Developed static websites using HTML5 and CSS3
+- Fixed bugs and implemented feature requests
+- Participated in code reviews
+
+## EDUCATION
+
+**Associates Degree in Web Development**
+Community College | 2018
+
+## ADDITIONAL
+
+- Completed free online course: "The Complete JavaScript Bootcamp"
+- Familiar with Agile methodologies
+- Strong communication and design collaboration skills
